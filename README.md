@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 📝 I regularly write articles on [DevOps and aws services](DevOps and aws services)
+- 📝 I regularly write articles on DevOps tools and aws services
 
 - 📫 How to reach me **pranavigoud4@gmail.com**
 
