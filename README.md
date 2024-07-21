@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranavi</h1>
-<h3 align="center">An IT professional looking for transition into cloud.</h3>
+<h3 align="center">An IT professional looking for career transition into cloud.</h3>
 
 - 🌱 I’m currently learning **Docker**
 
